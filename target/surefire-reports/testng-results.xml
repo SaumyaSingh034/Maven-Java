@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="220" started-at="2020-09-11T19:13:31 IST" finished-at="2020-09-11T19:13:31 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="220" started-at="2020-09-11T19:13:31 IST" finished-at="2020-09-11T19:13:31 IST">
+      <class name="rahulshettyUdemy.AppiumTest">
+        <test-method status="PASS" signature="IOSApp()[pri:0, instance:rahulshettyUdemy.AppiumTest@369f73a2]" name="IOSApp" duration-ms="16" started-at="2020-09-11T19:13:31 IST" finished-at="2020-09-11T19:13:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApp -->
+        <test-method status="PASS" signature="WindowsApp()[pri:0, instance:rahulshettyUdemy.AppiumTest@369f73a2]" name="WindowsApp" duration-ms="1" started-at="2020-09-11T19:13:31 IST" finished-at="2020-09-11T19:13:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WindowsApp -->
+      </class> <!-- rahulshettyUdemy.AppiumTest -->
+      <class name="rahulshettyUdemy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:rahulshettyUdemy.SeleniumTest@1f28c152]" name="BrowserAutomation" duration-ms="1" started-at="2020-09-11T19:13:31 IST" finished-at="2020-09-11T19:13:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementUI()[pri:0, instance:rahulshettyUdemy.SeleniumTest@1f28c152]" name="elementUI" duration-ms="0" started-at="2020-09-11T19:13:31 IST" finished-at="2020-09-11T19:13:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- rahulshettyUdemy.SeleniumTest -->
+      <class name="rahulshettyUdemy.RestAssuredTest">
+        <test-method status="PASS" signature="Rest()[pri:0, instance:rahulshettyUdemy.RestAssuredTest@7d907bac]" name="Rest" duration-ms="0" started-at="2020-09-11T19:13:31 IST" finished-at="2020-09-11T19:13:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rest -->
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:rahulshettyUdemy.RestAssuredTest@7d907bac]" name="deleteTwitter" duration-ms="1" started-at="2020-09-11T19:13:31 IST" finished-at="2020-09-11T19:13:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- rahulshettyUdemy.RestAssuredTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
